@@ -1,1 +1,1 @@
-# Repositório com código do COMEXstat (sem dados)
+# Repositório COMEXSTAT — código sem dados
